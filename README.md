@@ -3,6 +3,13 @@ readme
 
 Étudiant en première année à Epitech, passionné par l'informatique et les nouvelles technologies. J'aime aussi les jeux vidéo 🎮.
 
+
+<h3><p align="center">CV</p></h3>
+<p align="center">
+    <a href="Cv_Mewen-2.pdf">
+        Click here !
+    </a>
+</p>
 ---
 
 ## Mes compétences
