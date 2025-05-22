@@ -1,4 +1,3 @@
-readme
 # Salut, je suis Mewen 👋
 
 Étudiant en première année à Epitech, passionné par l'informatique et les nouvelles technologies. J'aime aussi les jeux vidéo 🎮.
